@@ -68,3 +68,5 @@ Forged full message (hex): 757365723d61747461636b65723b616374696f6e3d76696577800
 Forged new hash: aac2f7342461bba83105b79d8c7d4abdfbe5ea110375365bb8ab95cc1a2e18b0
 
 ```
+
+![](Demo-SHA-App/image01.png)
