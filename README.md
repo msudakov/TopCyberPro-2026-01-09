@@ -1,6 +1,6 @@
 # TopCyberPro Podcast with Jim West
 
-- [Podcast Recording](#)
+- [Podcast Recording](https://www.youtube.com/watch?v=nWpR4O-4ybw)
 - [Presentation Slides](Slides.pdf)
 
 ## AES-256 Padding Oracle Attack
